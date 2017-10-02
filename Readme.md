@@ -1,0 +1,1 @@
+React sample that works without compiling or installing stuff
